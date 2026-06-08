@@ -26,20 +26,6 @@ Exploratory Data Analysis (EDA)
 Data Visualization
 Insight Generation
 
-Conclusion & Recommendations
-
-Key Insights
-Identified important trends and patterns within the dataset.
-Analyzed customer/product/sales behavior.
-Created visual dashboards and charts for better understanding.
-Provided data-driven recommendations based on findings.
-
-Files Included
-
-Data_Analysis_Project.ipynb – Main notebook containing analysis.
-dataset.csv – Dataset used for analysis.
-README.md – Project documentation.
-images/ – Visualizations and charts.
 
 Skills Demonstrated
 
@@ -54,3 +40,20 @@ Data Visualization
 Statistical Analysis
 
 Business Insight Generation
+
+Conclusion & Recommendations
+
+
+Key Insights
+Identified important trends and patterns within the dataset.
+Analyzed customer/product/sales behavior.
+Created visual dashboards and charts for better understanding.
+Provided data-driven recommendations based on findings.
+
+Files Included
+
+Data_Analysis_Project.ipynb – Main notebook containing analysis.
+dataset.csv – Dataset used for analysis.
+README.md – Project documentation.
+images/ – Visualizations and charts.
+
