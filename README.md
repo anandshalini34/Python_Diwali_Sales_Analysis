@@ -13,33 +13,28 @@ Generate actionable insights and recommendations.
 
 Tools & Technologies
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
-Project Workflow
-Data Collection
-Data Cleaning & Preprocessing
-Exploratory Data Analysis (EDA)
-Data Visualization
-Insight Generation
+Python,
+ Pandas,
+ NumPy,
+ Matplotlib,
+ Seaborn,
+ Jupyter Notebook,
+ Project Workflow,
+ Data Collection,
+ Data Cleaning & Preprocessing,
+ Exploratory Data Analysis (EDA),
+ Data Visualization,
+ Insight Generation
 
 
 Skills Demonstrated
 
-Data Cleaning
-
-Data Wrangling
-
-Exploratory Data Analysis
-
-Data Visualization
-
-Statistical Analysis
-
-Business Insight Generation
+Data Cleaning,
+ Data Wrangling,
+ Exploratory Data Analysis,
+ Data Visualization,
+ Statistical Analysis,
+ Business Insight Generation
 
 Conclusion & Recommendations
 
