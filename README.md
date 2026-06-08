@@ -44,8 +44,13 @@ images/ – Visualizations and charts.
 Skills Demonstrated
 
 Data Cleaning
+
 Data Wrangling
+
 Exploratory Data Analysis
+
 Data Visualization
+
 Statistical Analysis
+
 Business Insight Generation
